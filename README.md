@@ -5,7 +5,15 @@
 -->
 
 <h2>Description</h2>
-In this lab, I created a network diagram of endpoints, network devices, and their connections, resulting in improved troubleshooting efficiency. I researched requirements for OPNsense implementation, procured necessary components, assembled a bare metal router, and installed & configured OPNsense. Next, I deployed a NETGEAR managed switch to facilitate network connectivity between 5 physical endpoints; additionally, I deployed a Grandstream access point to facilitate wireless connectivity for Wi-Fi clients and IoT devices. Then, I configured five VLANs and four SSIDs to create network segmentation, enhancing the security and performance of the network. Finally, I configured various firewall rules to restrict unauthorized and unwanted access to specific VLANs on the network.
+In this lab, I created a network diagram of endpoints, network devices, and their connections, resulting in improved troubleshooting efficiency.
+
+I researched requirements for OPNsense implementation, procured necessary components, assembled a bare metal router, and installed & configured OPNsense. 
+
+Next, I deployed a NETGEAR managed switch to facilitate network connectivity between 5 physical endpoints; additionally, I deployed a Grandstream access point to facilitate wireless connectivity for Wi-Fi clients and IoT devices. 
+
+Then, I configured five VLANs and four SSIDs to create network segmentation, enhancing the security and performance of the network. 
+
+Finally, I configured various firewall rules to restrict unauthorized and unwanted access to specific VLANs on the network.
 <br />
 
 
